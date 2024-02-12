@@ -1,4 +1,4 @@
-# APIs Públicas
+# APIs Públicas 😁
 Lista de APIs gratuitas para projetos de programação
 
 | Nome                  | Assunto                           | Link                                                                       |
@@ -64,3 +64,6 @@ Lista de APIs gratuitas para projetos de programação
 | World Bank API        | Dados econômicos                 | https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information |
 | Zippopotamus          | Informações de CEP USA           | https://api.zippopotam.us/us/90210                                         |
 | Zomato API            | Informações sobre restaurantes    | https://developers.zomato.com/api                                         |
+
+### Contribua
+Fique a vontade para contribuir inserindo mais endpoints novas via Pull Request ou entrando em contato via email [lkrs@protonmail.com](mailto:lkrs@protonmail.com)
