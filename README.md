@@ -68,5 +68,5 @@ Lista de APIs gratuitas para projetos de programação
 | Zippopotamus          | Informações de CEP USA           | https://api.zippopotam.us/us/90210                                         |
 | Zomato API            | Informações sobre restaurantes    | https://developers.zomato.com/api                                         |
 
-### Contribua
+### Contribua 🤝
 Fique a vontade para contribuir inserindo mais endpoints novas via Pull Request ou entrando em contato via email [lkrs@protonmail.com](mailto:lkrs@protonmail.com)
