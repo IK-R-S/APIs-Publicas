@@ -1,4 +1,4 @@
-# APIs Públicas 😁
+# APIs Públicas 🧩
 Lista de APIs gratuitas para projetos de programação
 
 ![Malware type](https://img.shields.io/badge/APIs-Free-green)
@@ -29,7 +29,7 @@ Lista de APIs gratuitas para projetos de programação
 | Exchange Rates API    | Taxas de câmbio                  | https://api.exchangeratesapi.io/latest                                    |
 | FreeGeoIP             | Informações GeoIP                | https://freegeoip.app/json/                                               |
 | Geocode.xyz           | Geocodificação                   | https://geocode.xyz/                                                      |
-| HTTP Cats           | Status de requisição com imagens de gatinhos  | [(https://http.cat/status/100                                  |
+| HTTP Cats           | Status de requisição com imagens de gatinhos  | https://http.cat/status/100                                  |
 | Imgflip               | Memes                            | https://api.imgflip.com/get_memes                                         |
 | IP 2 Country          | IP do Pais                       | https://api.ip2country.info/ip?161.185.160.93                             |
 | IPify                 | Seu IP Público                   | https://api.ipify.org?format=json                                         |
