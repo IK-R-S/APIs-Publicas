@@ -1,6 +1,9 @@
 # APIs Públicas 😁
 Lista de APIs gratuitas para projetos de programação
 
+![Malware type](https://img.shields.io/badge/APIs-Free-green)
+![Malware type](https://img.shields.io/badge/Response-JSON-yellow)
+
 | Nome                  | Assunto                           | Link                                                                       |
 |-----------------------|-----------------------------------|----------------------------------------------------------------------------|
 | 7Timer!               | Previsão do Tempo                | http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json |
