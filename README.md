@@ -5,7 +5,8 @@ Lista de APIs gratuitas para projetos de programação
 |-----------------------|-----------------------------------|----------------------------------------------------------------------------|
 | 7Timer!               | Previsão do Tempo                | http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json |
 | Agify.io              | Idade baseado no Nome            | https://api.agify.io?name=bella                                           |
-| Archive.org           | Arquivo Público                  | https://archive.org/metadata/TheAdventuresOfTomSawyer_201303             |
+| Alt Image generator   | Descrição de imagens por IA      | https://alt-text-generator.vercel.app/api/generate?imageUrl=              |
+| Archive.org           | Arquivo Público                  | https://archive.org/metadata/TheAdventuresOfTomSawyer_201303              |
 | AwesomeAPI CEP        | API de Informações de CEP        | https://docs.awesomeapi.com.br/api-cep                                    |
 | AwesomeAPI Moedas     | API de Cotação de Moedas         | https://docs.awesomeapi.com.br/api-de-moedas                              |
 | Binance               | Informações de Cripto            | https://api2.binance.com/api/v3/ticker/24hr                               |
@@ -25,10 +26,12 @@ Lista de APIs gratuitas para projetos de programação
 | Exchange Rates API    | Taxas de câmbio                  | https://api.exchangeratesapi.io/latest                                    |
 | FreeGeoIP             | Informações GeoIP                | https://freegeoip.app/json/                                               |
 | Geocode.xyz           | Geocodificação                   | https://geocode.xyz/                                                      |
-| Imgflip               | Memes                            | https://api.imgflip.com/get_memes                                          |
+| HTTP Cats           | Status de requisição com imagens de gatinhos  | [(https://http.cat/status/100                                  |
+| Imgflip               | Memes                            | https://api.imgflip.com/get_memes                                         |
 | IP 2 Country          | IP do Pais                       | https://api.ip2country.info/ip?161.185.160.93                             |
 | IPify                 | Seu IP Público                   | https://api.ipify.org?format=json                                         |
-| iTunes Search         | Conteudo do Itunes               | https://itunes.apple.com/search?term=radiohead                             |
+| IPinfo                | Informações detalhadas sobre seu IP                   | https://ipinfo.io/json                                                    |
+| iTunes Search         | Conteudo do Itunes               | https://itunes.apple.com/search?term=radiohead                            |
 | Jikan API             | Informações sobre anime e mangá  | https://jikan.moe/                                                        |
 | JokeAPI               | Piadas                           | https://v2.jokeapi.dev/joke/Any                                           |
 | Makeup                | Marcas e Produtos de Maquiagem   | http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline     |
