@@ -17,6 +17,7 @@ Lista de APIs gratuitas para projetos de programação
 | AwesomeAPI Moedas     | API de Cotação de Moedas         | https://docs.awesomeapi.com.br/api-de-moedas                              |
 | Binance               | Informações de Cripto            | https://api2.binance.com/api/v3/ticker/24hr                               |
 | Bored                 | Sugestões de Atividades          | https://www.boredapi.com/api/activity                                     |
+| Bucketlist.nl Dream of the Day | Uma ideia diária de viagem ou experiência, em JSON neerlandês por padrão; sem chave | https://bucketlist.nl/api/droom-van-de-dag?lang=nl |
 | Chuck Norris API      | Piadas sobre Chuck Norris        | https://api.chucknorris.io/jokes/random                                   |
 | Cocktail Database     | Receita de Drink                 | https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita        |
 | CoinBase              | Moedas                           | https://api.coinbase.com/v2/currencies                                    |
